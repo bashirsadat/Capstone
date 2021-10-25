@@ -1,1 +1,15 @@
-eli5 lime neattext pandas spacy numpy seaborn altair streamlit scikit-learn
+eli5 
+lime
+neattext
+pandas
+spacy
+numpy
+seaborn
+altair
+streamlit
+scikit-learn
+pandas
+plotly
+python-dotenv
+bokeh
+requests
